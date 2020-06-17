@@ -1,20 +1,2 @@
-# Project: Microservices sample architecture for .Net Core Application
+# Project: Microservices architecture for .Net Core Application
 ### .Net Core 2.2 Sample With C#.Net, EF and SQL Server
-* [Introduction](#Introduction)
-* [Application Architecture](#Application-Architecture)
-* [Design of Microservice](#Design-of-Microservice)
-* [Security : JWT Token based Authentication](#Security--JWT-Token-based-Authentication)
-* [Development Environment](#Development-Environment)
-* [Technologies](#Technologies)
-* [Opensource Tools Used](#Opensource-Tools-Used)
-* [Cloud Platform Services](#Cloud-Platform-Services)
-* [Database Design](#Database-Design)
-* [WebApi Endpoints](#WebApi-Endpoints)
-* [Solution Structure](#Solution-Structure)
-* [Exception Handling](#Exception-Handling)
-* [Db Concurrency Handling](#Db-Concurrency-Handling)
-* [Azure AppInsights: Logging and Monitoring](#Azure-AppInsights-Logging-and-Monitoring)
-* [Swagger: API Documentation](#Swagger-API-Documentation)
-* [Postman Collection](#Postman-Collection)
-* [How to run the application](#How-to-run-the-application)
-* [Console App - Gateway Client](#Console-App---Gateway-Client)
